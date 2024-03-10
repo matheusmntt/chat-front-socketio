@@ -1,0 +1,17 @@
+.message {
+  border: 1px solid black;
+  width: 80%; 
+  padding: 10px;
+
+  border-radius: 15px 3px 15px 3px; 
+}
+
+.isOwner {
+  border: 1px solid black;
+  width: 80%;
+  padding: 10px;
+
+  border-radius: 3px 15px 3px 15px;
+
+  align-self: flex-end;
+}
